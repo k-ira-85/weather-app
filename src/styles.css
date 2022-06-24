@@ -90,3 +90,7 @@ body {
     color: #747f90;
     width: 9%;
   }
+
+  p.author {
+    padding-top: 30px;
+  }
